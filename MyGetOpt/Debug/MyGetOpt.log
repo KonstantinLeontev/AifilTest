@@ -1,0 +1,6 @@
+﻿  MyGetOpt.cpp
+d:\moe\prog\aifiltest\mygetopt\mygetopt.cpp(76): warning C4101: 'counter': unreferenced local variable
+d:\moe\prog\aifiltest\mygetopt\mygetopt.cpp(138): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\moe\prog\aifiltest\mygetopt\mygetopt.cpp(138): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MyGetOpt.vcxproj -> D:\Moe\prog\AifilTest\Debug\MyGetOpt.exe
+  MyGetOpt.vcxproj -> D:\Moe\prog\AifilTest\Debug\MyGetOpt.pdb (Full PDB)
